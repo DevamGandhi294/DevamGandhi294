@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev294gandhi@gmail.com**
 
-- ⚡ Fun fact **I’ve connected more sensors than I have friends on Instagram.**
+- ⚡ Fun fact **I’ve connected more sensors than I have friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
