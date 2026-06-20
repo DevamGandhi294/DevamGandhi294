@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BIIoT - Industrial IoT System**
 
-- 🌱 I’m currently learning **AI for robotics · MQTT · dotnet · Flutter**
+- 🌱 I’m currently learning **AI for robotics · MQTT · Cloud Computing · Flutter**
 
 - 👯 I’m looking to collaborate on **Smart Rover with GPS, ML & Live Streaming**
 
